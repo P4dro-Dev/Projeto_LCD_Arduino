@@ -1,2 +1,2 @@
 # Projeto_L
-Nesse projeto, passado n curso Técnico em Informát
+Nesse projeto, passado n curso Técnico em Informá
