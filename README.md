@@ -1,2 +1,2 @@
 # Projeto_L
-Nesse projeto, passado n curso Técn
+Nesse projeto, passado n curso Téc
