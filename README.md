@@ -1,2 +1,2 @@
 # Projeto_L
-Nesse projeto, pas
+Nesse projeto, pa
