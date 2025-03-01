@@ -1,2 +1,2 @@
 # Projeto_LCD_
-Nesse projeto, passado n curso Técnico em Informática, foi 
+Nesse projeto, passado n curso Técnico em Informática, foi
