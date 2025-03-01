@@ -1,2 +1,2 @@
 # Projeto_L
-Nesse projeto, passa
+Nesse projeto, pass
